@@ -23,5 +23,10 @@
   "devDependencies": {
     "prettier": "2.8.8"
   },
+  "eslintConfig": {
+    "extends": [
+      "next/core-web-vitals"
+    ]
+  },
   "prettier": {}
 }
