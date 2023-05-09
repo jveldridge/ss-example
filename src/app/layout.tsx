@@ -1,3 +1,4 @@
+/* eslint-disable no-undef */
 import "./globals.css";
 import { Inter } from "next/font/google";
 
